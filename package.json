@@ -1,0 +1,24 @@
+{
+  "name": "16-social-network-api-nosql",
+  "version": "1.0.0",
+  "description": "GitHub profile: [@jnmayhook](https://github.com/jnmayhook)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnmayhook/Social-Network-API-NoSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnmayhook/Social-Network-API-NoSQL/issues"
+  },
+  "homepage": "https://github.com/jnmayhook/Social-Network-API-NoSQL#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
